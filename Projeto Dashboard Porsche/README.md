@@ -1,4 +1,4 @@
-# 🚗 Porsche Sales Intelligence — Dashboard de Performance Comercial
+# Porsche Sales Intelligence — Dashboard de Performance Comercial
 
 > Projeto de análise de dados com pipeline de limpeza e padronização de uma base de vendas da Porsche, culminando em um dashboard executivo interativo.
 
